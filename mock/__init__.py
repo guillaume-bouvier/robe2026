@@ -1,0 +1,1 @@
+"""Hardware-free mock implementations used by local tests."""
